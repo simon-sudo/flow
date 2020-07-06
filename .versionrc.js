@@ -8,7 +8,7 @@ module.exports = {
         { type: 'fix', section: '🐛 Bug Fixes' },
         { type: 'perf', hidden: true },
         { type: 'refactor', hidden: true },
-        { type: 'style', hidden: `💄 Style` },
+        { type: 'style', section: `💄 Style` },
         { type: 'test', hidden: true },
         { type: 'translation ', hidden: '📙 Translation' },
         { type: 'chore', hidden: true }
